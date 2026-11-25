@@ -1,0 +1,17 @@
+stage,CP,ITW,TD,total,note
+Children in dataset (participant file or gait folder),22,12,25,59,TD S18 has gait files but no participant record
+Children with processed gait files,19,11,25,55,"no processed gait files: P20, P31, P37, P44"
+Trial files,91,39,49,179,
+Trial-limb records (2 per file),182,78,98,358,
+  excluded: ankle angle column absent (one-leg kinematics),10,5,4,19,"children: P07, P10, P11, P17, P18, P21, P26, P32, P34, S05, S07, S12"
+  excluded: ankle cycles not aligned to a gait event (cycle CMC < 0.6),2,0,10,12,"children: P10, P11, S23, S24, S25"
+Trial-limb records analysed,170,73,84,327,
+Children with >= 1 analysed record,19,11,22,52,"all records excluded: S23, S24, S25"
+Visit-limbs (all limbs),91,42,43,176,
+  excluded from concordance: unaffected limb of hemi/monoparetic CP,29,0,0,29,
+Concordance analysis: visit-limbs,62,42,43,147,
+Concordance analysis: children,19,11,22,52,
+  of which single-trial visit-limbs (kept: score = that one trial),9,11,2,22,
+Repeatability analysis: visit-limbs with >= 2 trials (all limbs),74,31,41,146,
+Repeatability analysis: children,19,9,22,50,
+"  single-trial visit-limbs (all limbs), not usable for repeatability",17,11,2,30,

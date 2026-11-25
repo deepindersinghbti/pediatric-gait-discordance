@@ -1,0 +1,68 @@
+level,group,code,detail,reason
+child,ITW,P20,"phases in participant file: TX,T1",no processed gait files in ANALYSIS release
+child,CP,P31,phases in participant file: T0,no processed gait files in ANALYSIS release (file note: video not available)
+child,CP,P37,phases in participant file: T0,no processed gait files in ANALYSIS release (file note: IMUs not available)
+child,CP,P44,phases in participant file: T0,no processed gait files in ANALYSIS release (file note: video not available)
+child,TD,S23,has processed gait files,all trial-limb records excluded (see trial-limb rows)
+child,TD,S24,has processed gait files,all trial-limb records excluded (see trial-limb rows)
+child,TD,S25,has processed gait files,all trial-limb records excluded (see trial-limb rows)
+trial-limb,CP,P07,P07-240220-T1-GAIT-02_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P10,P10-240618-T2-GAIT-01_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P10,P10-240618-T2-GAIT-02_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,CP,P11,P11-240104-T0-GAIT-02_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,CP,P17,P17-240109-T2-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P17,P17-240220-T1-GAIT-01_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb kept with >= 2 trials
+trial-limb,CP,P32,P32-240604-T0-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P34,P34-240618-T2-GAIT-01_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P34,P34-240618-T2-GAIT-02_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,CP,P34,P34-250128-T1-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,ITW,P18,P18-240116-T2-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,ITW,P18,P18-240618-T2-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,ITW,P21,P21-240109-T1-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,ITW,P21,P21-240109-T1-GAIT-02_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,ITW,P26,P26-241001-T2-GAIT-02_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,TD,S05,S05-240418-C0-GAIT-01_sync_segment.xlsx Right,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,TD,S07,S07-240220-C0-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb reduced to 1 trial
+trial-limb,TD,S12,S12-240521-C0-GAIT-01_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,TD,S12,S12-240521-C0-GAIT-02_sync_segment.xlsx Left,ankle angle column absent (one-leg kinematics); visit-limb lost entirely
+trial-limb,CP,P10,P10-240618-T2-GAIT-01_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,CP,P11,P11-240404-T1-GAIT-01_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb reduced to 1 trial
+trial-limb,TD,S23,S23-250130-C0-GAIT-02_sync_segment.xlsx Right,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S23,S23-250130-C0-GAIT-02_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S24,S24-250130-C0-GAIT-01_sync_segment.xlsx Right,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S24,S24-250130-C0-GAIT-01_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S24,S24-250130-C0-GAIT-02_sync_segment.xlsx Right,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S24,S24-250130-C0-GAIT-02_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S25,S25-250130-C0-GAIT-01_sync_segment.xlsx Right,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S25,S25-250130-C0-GAIT-01_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S25,S25-250130-C0-GAIT-02_sync_segment.xlsx Right,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+trial-limb,TD,S25,S25-250130-C0-GAIT-02_sync_segment.xlsx Left,ankle cycles not aligned to a gait event (cycle CMC < 0.6); visit-limb lost entirely
+visit-limb,CP,P01,2024-01-09 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P01,2025-01-30 T0 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P03,2024-01-16 T1 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P03,2024-04-25 T2 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P03,2024-06-06 T1 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P03,2024-10-08 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P04,2024-03-05 T1 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P04,2024-06-04 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P04,2025-03-20 T0 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P07,2024-02-20 T1 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P07,2024-06-04 T2 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P07,2025-02-06 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P08,2024-02-20 T1 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P08,2024-10-24 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P09,2024-04-25 T2 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P09,2024-06-06 T1 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P09,2024-11-19 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P10,2024-01-09 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P10,2024-03-05 T1 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P10,2025-01-30 T0 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P11,2024-01-04 T0 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P11,2024-04-04 T1 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P11,2024-06-18 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P11,2025-01-30 T0 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P17,2024-01-09 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P17,2024-02-20 T1 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P17,2024-06-04 T2 Left,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P32,2024-06-04 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only
+visit-limb,CP,P32,2025-01-28 T0 Right,unaffected limb (hemi/monoparetic CP): repeatability only

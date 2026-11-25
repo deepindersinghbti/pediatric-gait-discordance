@@ -21,3 +21,10 @@ Target: Confluence'27 (IEEE). Dataset: LIVE-GaitNeuroKids v1.1 (Zenodo 10.5281/z
 - Step 2: files already resampled to 101 points/cycle; Kinematics and SEMG step counts can differ, so
   stance/swing split = median toe-off from support labels per trial and leg.
 - Step 3: 179 trial files -> 339 (trial, leg) rows; 19 legs skipped (ankle column absent, one-leg kinematics files).
+
+## Revision for Confluence 2027 camera-ready (Nov 2026)
+Reviewer-requested analyses: `src/rev_*.py`, run in order by `bash src/rev_run_all.sh`
+(needs `statsmodels`). Outputs: `results/rev/` (bridge run reproducing the published numbers) and
+`results/rev/clean/` (analysis of record after the quality screen: dead EMG channel, misaligned
+ankle cycles). Chronology and all results: `docs/revision_log.md`.
+
